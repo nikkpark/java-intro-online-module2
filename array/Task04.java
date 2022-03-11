@@ -29,7 +29,7 @@ public class Task04 {
         printArray(epicArray);
     }
 
-        private static double[] generateArray(int arrSize) {
+    private static double[] generateArray(int arrSize) {
         double[] arr;
 
         arr = new double[arrSize];

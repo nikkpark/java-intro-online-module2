@@ -28,7 +28,7 @@ public class Task05 {
         pickOutandPrint(wholeNumberArray);
     }
 
-        private static int[] generateArray(int arrSize) {
+    private static int[] generateArray(int arrSize) {
         int[] arr;
 
         arr = new int[arrSize];
